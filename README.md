@@ -5,7 +5,7 @@ I read the paper and implemented a simple example code.
 
 ### GAN
 Generative Adversarial Network
-[[Blog]](https://re-code-cord.tistory.com/entry/Generative-Adversarial-Networks) [[Paper]](https://arxiv.org/pdf/1406.2661.pdf) [[Code]](https://github.com/8639sung/Generative_Model/blob/main/GAN/GAN.ipynb)
+[[Blog]](https://re-code-cord.tistory.com/entry/Generative-Adversarial-Networks) [[Paper]](https://arxiv.org/abs/1406.2661) [[Code]](https://github.com/8639sung/Generative_Model/blob/main/GAN/GAN.ipynb)
 
 <p align="center">
     <img src="assets/GAN.gif" width="360"\>
