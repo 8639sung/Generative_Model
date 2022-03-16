@@ -13,7 +13,7 @@ Generative Adversarial Network
 
 ### CGAN
 Conditional Generative Adversarial Network
-[[Blog]](-) [[Paper]](https://arxiv.org/abs/1411.1784) [[Code]](https://github.com/8639sung/Generative_Model/blob/main/CGAN/CGAN.ipynb)
+[[Blog]](https://re-code-cord.tistory.com/entry/Conditional-Generative-Adversarial-Networks) [[Paper]](https://arxiv.org/abs/1411.1784) [[Code]](https://github.com/8639sung/Generative_Model/blob/main/CGAN/CGAN.ipynb)
 
 <p align="center">
     <img src="assets/CGAN.gif" width="360"\>
